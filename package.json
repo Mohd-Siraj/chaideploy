@@ -1,0 +1,15 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "backend deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}
